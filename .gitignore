@@ -5,3 +5,5 @@ venv
 chrome_data/*
 firefox_data/*
 download/*
+local.properties
+comments.csv
